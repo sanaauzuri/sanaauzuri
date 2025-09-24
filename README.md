@@ -1,11 +1,10 @@
-## Hi there 👋
-# Hi, I'm _____ 👋
+# Hi, I'm Sanaa 👋
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in _____ → Raised in _____ → Currently in _____.
-- Outside of work I like to _____
-- Let's connect via email: _____
+- Born in Brooklyn → Raised in East NY → Currently in Queens.
+- Outside of work I like to bike ride
+- Let's connect via email: sanaauzurirm@gmail.com
 
 ## Tech Stack:
 
