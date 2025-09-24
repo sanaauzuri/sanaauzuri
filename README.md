@@ -1,9 +1,9 @@
-# Hi, I'm Sanaa 👋
+# Hi, I'm Sanaa, she/her 👋
 
-## 👨‍🏫 About Me
+## ✏️ About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in Brooklyn → Raised in East NY → Currently in Queens.
-- Outside of work I like to bike ride
+- Born in BK → Raised in East NY → Currently in Queens.
+- Outside of work I like to play Duolingo, 44 day streak 🤓
 - Let's connect via email: sanaauzurirm@gmail.com
 
 ## Tech Stack:
@@ -18,6 +18,7 @@
 - Git
 - GitHub
 
+/*
 <!--
 **sanaauzuri/sanaauzuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*\
